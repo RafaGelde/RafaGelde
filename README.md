@@ -30,7 +30,7 @@ Sou um aprendiz de programador apaixonado por tecnologia. Atualmente focado em f
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=RafaGelde&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaGelde&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%2C%20Y" alt="Streak Stats" />
 
 <br>
 <br>
