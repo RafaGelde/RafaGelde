@@ -1,48 +1,39 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Rafael%20Gelde&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Apprentice%20Programmer%20%7C%20Tech%20Enthusiast&descAlignY=60&descAlign=50" alt="Rafael Header" />
-</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Rafael+Gelde;Apprentice+Programmer;Python+%7C+Java+%7C+MySQL" alt="Typing SVG" />
 
 <br>
 
-### 👋 E aí, tranquilo?
-Seja muito bem vindo ao meu perfil! Meu nome é **Rafael** e sou de **Joinville, SC**.
+### 👨‍💻 Sobre Mim
+Sou um aprendiz de programador apaixonado por tecnologia. Atualmente focado em fortalecer meus conhecimentos em Back-end e Banco de Dados, enquanto exploro o Front-end.
 
-Atualmente faço parte do time do **Grupo Orbenk** e estou na jornada para me tornar um desenvolvedor "full stack" (mas confesso que o Back-end é meu xodó ❤️).
-Gosto de transformar café em código e resolver problemas do dia a dia.
-
-<br>
-
-### 🎯 No que estou focando?
-Minha meta agora é ficar **monstro** nessas tecnologias:
-- 🐍 **Python** (Automações e Scripting)
-- ☕ **Java** (Robustez é tudo)
-- 🗄️ **Databases** (SQL e modelagem)
+📍 **Joinville, Brazil** | 🏢 **Grupo Orbenk**
 
 <br>
 
-### � Minhas Ferramentas
-Aqui está o kit que eu uso pra fazer a mágica acontecer:
+### 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,c,cs,js,react,html,css,git,vscode&theme=dark" />
-</div>
-
-<br>
-
-### 📈 Meus Números
-Porque programador também gosta de estatística, né?
-
-<div align="center">
-  <a href="https://github.com/RafaGelde">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaGelde&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGelde&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="langs" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,c,cs,html,css,react,js,vscode,git&theme=dark" alt="My Skills" />
   </a>
+</p>
+
+<br>
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaGelde&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="RafaGelde's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGelde&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="150" />
 </div>
 
 <br>
 
-<div align="center">
-  <b>Obrigado pela visita! 🚀</b>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=RafaGelde&color=blueviolet&style=flat-square&label=Profile+Views" alt="Views"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaGelde&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=RafaGelde&color=blueviolet&style=flat-square&label=Profile+Views)
+
 </div>
