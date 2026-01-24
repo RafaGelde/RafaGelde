@@ -30,6 +30,8 @@ Sou um aprendiz de programador apaixonado por tecnologia. Atualmente focado em f
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RafaGelde&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="RafaGelde's Stats" height="150" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGelde&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="150" />
 </p>
 
