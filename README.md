@@ -4,7 +4,7 @@
 
 <br>
 
-<h3 align="center">👨‍💻 Sobre Mim <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/mawile.gif" alt="Mawile" width="35" /></h3>
+<h3 align="center">👨‍💻 Sobre Mim</h3>
 
 <p align="center">
 Sou um aprendiz de programador apaixonado por tecnologia. Atualmente focado em fortalecer meus conhecimentos em Back-end e Banco de Dados, enquanto exploro o Front-end.
@@ -16,6 +16,9 @@ Sou um aprendiz de programador apaixonado por tecnologia. Atualmente focado em f
 
 <br>
 
+<div align="center">
+  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/mawile.gif" alt="Mawile" width="100" />
+</div>
 <h3 align="center">🛠️ Tecnologias & Ferramentas</h3>
 
 <p align="center">
