@@ -23,7 +23,7 @@ Sou um Estagiário programador apaixonado por tecnologia. Atualmente focado em f
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,mysql,c,cs,html,css,react,js,vscode,git&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,react,js,vscode,git&theme=dark" alt="My Skills" />
   </a>
 </p>
 
