@@ -23,7 +23,7 @@ Sou um Estagiário programador apaixonado por tecnologia. Atualmente focado em f
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,html,css,react,js,vscode,git&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,sqlserver,html,css,react,js,vscode,git&theme=dark" alt="My Skills" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@ Sou um Estagiário programador apaixonado por tecnologia. Atualmente focado em f
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaGelde&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="RafaGelde's Stats" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RafaGelde&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="RafaGelde's Stats" height="150" />
 </p>
 
 <br>
