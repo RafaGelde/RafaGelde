@@ -7,11 +7,11 @@
 <h3 align="center">👨‍💻 Sobre Mim</h3>
 
 <p align="center">
-Sou um Estagiário programador apaixonado por tecnologia. Atualmente focado em fortalecer meus conhecimentos em Back-end e Banco de Dados, enquanto exploro o Front-end.
+Sou um programador apaixonado por tecnologia. Atualmente focado em fortalecer meus conhecimentos em Back-end e Banco de Dados, enquanto exploro o Front-end.
 </p>
 
 <p align="center">
-📍 <strong>Joinville, Brazil</strong> | 🏢 <strong>Grupo Orbenk</strong>
+📍 <strong>Joinville, Brazil</strong> | 🏢 <strong>Citadel</strong>
 </p>
 
 <br>
